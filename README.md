@@ -16,8 +16,16 @@ Week1: Setting up your Machine Learning Application
 Week2: Optimization algorithms
 Week3: Hyperparameter tuning
 
-### Structuring Machine Learning Projects
-Week1 :ML Strategy (1)
-Week2 :ML Strategy (2)
+### Course 3: Structuring Machine Learning Projects
+Week1: ML Strategy (1)
+Week2: ML Strategy (2)
+
+### Course 4: Convolutional Neural Networks
+Week1: Foundations of Convolutional Neural Networks
+Week2: Deep convolutional models: case studies
+Week3: Object detection
+Week4: Face Recognition
+
+
 
 
